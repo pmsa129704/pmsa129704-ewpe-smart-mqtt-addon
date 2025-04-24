@@ -1,0 +1,11 @@
+{
+  "name": "EWPE Smart MQTT",
+  "version": "1.0",
+  "slug": "ewpe_smart_mqtt",
+  "description": "Integrador MQTT para ar-condicionado via EWPE Smart",
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "image": "local/ewpe-smart-mqtt"
+}
