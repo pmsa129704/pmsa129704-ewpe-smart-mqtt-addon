@@ -1,0 +1,11 @@
+mqtt:
+  broker: "192.168.1.50"
+  port: 1883
+  user: "pmsa129704"
+  password: "Sofiatiago/16204"
+  topic_prefix: "ar_nipon"
+
+devices:
+  - name: "ArNipon"
+    ip: "192.168.1.80"
+    port: 7000
