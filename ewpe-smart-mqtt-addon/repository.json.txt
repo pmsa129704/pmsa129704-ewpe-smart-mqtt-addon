@@ -1,0 +1,4 @@
+{
+  "name": "EWPE Smart MQTT Add-on Repository",
+  "url": "https://github.com/pmsa129704/pmsa129704-ewpe-smart-mqtt-addon"
+}
